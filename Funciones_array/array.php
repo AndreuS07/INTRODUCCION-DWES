@@ -62,18 +62,6 @@ $numeros =[6,4,10,5,7,2,5,7,8,9];
 $sumarray = array_sum($numeros);
 print_r("La suma del array es: " . $sumarray);
 
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
 </body>
 </html>
